@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1l -10 head | sort -r
+ls -Art | head -10

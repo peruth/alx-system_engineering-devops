@@ -1,0 +1,2 @@
+#!/bin/bash
+echo grep '[[:alpha:]]' [[:lower:]] {a..z}, {a..z} | tr -1d 'oo'
